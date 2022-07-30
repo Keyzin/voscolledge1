@@ -482,6 +482,7 @@ body{
 }
 .practice__header {
     margin-bottom: 45px;
+    margin-top: 45px;
 }
 @media(max-width:992px)
 {
@@ -650,7 +651,8 @@ body{
 {
     
     .who__header {
-        margin-bottom: 25px;
+        margin-bottom: 45px;
+        margin-top: 60px;
     }
     .who__video {
         margin-top: 30px;
